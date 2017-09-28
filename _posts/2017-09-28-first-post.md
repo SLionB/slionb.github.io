@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title:  "Welcome to Jekyll!"
+date:   2017-09-28 10:44:00 +0300
+categories: jekyll update
 ---
 
 A First Level Header
